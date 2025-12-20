@@ -1,14 +1,14 @@
-👋 Hi, I’m Priyanshu
+##👋 Hi, I’m Priyanshu
 
-🎓 Computer Science Student | 💻 Developer | 🚀 Tech Enthusiast
+###🎓 Computer Science Student | 💻 Developer | 🚀 Tech Enthusiast
 
-🌟 About Me
+##🌟 About Me
 
-Hello! I’m Priyanshu, a Computer Science student who loves exploring how technology works behind the scenes. I enjoy building things that look good and also work smoothly. Coding for me is not just about writing programs, but about solving real problems in simple and creative ways.
+### Hello! I’m Priyanshu, a Computer Science student who loves exploring how technology works behind the scenes. I enjoy building things that look good and also work smoothly. Coding for me is not just about writing programs, but about solving real problems in simple and creative ways.
 
-I’m always curious to learn new technologies and improve my skills step by step. I believe consistency and practice are the real keys in computer science.
+### I’m always curious to learn new technologies and improve my skills step by step. I believe consistency and practice are the real keys in computer science.
 
-❤️ What I Like About Computer Science
+## ❤️ What I Like About Computer Science
 
 Turning ideas into real applications
 
