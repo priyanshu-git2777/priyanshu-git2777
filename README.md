@@ -13,13 +13,6 @@ I enjoy learning new technologies, improving my problem-solving skills, and crea
 
 ---
 
-## 🛠 Skills
-- **Frontend:** HTML, CSS, JavaScript  
-- **Tools:** Git, GitHub, VS Code  
-- **Other:** Responsive design, basic animations, problem solving
-
----
-
 ## 📂 What I’m Working On
 - Building small projects to improve my frontend skills  
 - Learning more about JavaScript and modern frameworks  
