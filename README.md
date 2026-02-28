@@ -5,13 +5,13 @@ I enjoy learning new technologies, improving my problem-solving skills, and crea
 
 ---
 
-## 🌟 About Me
-- 🧑‍💻 I like working with HTML, CSS, JavaScript and frontend tools  
 - 🎯 I focus on writing code that is simple, readable, and practical  
 - 🚀 Always curious about UI/UX, animations and modern web trends  
 - ❤️ Passionate about learning, experimenting, and building real-world projects
 
 ---
+## 🌟 About Me
+- 🧑‍💻 I like working with HTML, CSS, JavaScript and frontend tools  
 
 ## 📂 What I’m Working On
 - Building small projects to improve my frontend skills  
